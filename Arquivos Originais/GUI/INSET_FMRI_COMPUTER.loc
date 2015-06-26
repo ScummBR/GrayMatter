@@ -1,0 +1,36 @@
+Session 1
+Session 2
+Session 3
+Session 4
+Back
+id = SAMANTHA
+id = MALIK
+id = CHARLES
+id = HELENA
+id = ANGELA
+id = HARVEY
+fMRI.data_sessions
+fMRI.main_view
+1s
+15s
+30s
+45s
+60s
+Booting on hard drive
+Memory size...
+Loading fMRI interface
+Loading fMRI data
+OK
+Select a session
+FILE
+DATE
+SIZE
+15-10-2005
+16-10-2005
+17-10-2005
+18-10-2005
+236 MB
+198 MB
+468 MB
+445 MB
+NO DATA

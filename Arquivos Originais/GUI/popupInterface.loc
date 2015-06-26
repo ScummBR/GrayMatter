@@ -1,0 +1,127 @@
+Chapter Progress
+Close
+Tutorial
+Skip
+Continue
+Houdini's Habitat
+Dread Hill House
+The Betrayer's Price
+Lambs for Dr Styles
+Chapter 1 Bonus
+Strange Events at Horspath Track
+Sam Plays Lab Assistant
+Sam Gets Carded
+The Betrayer's Price - Part 2
+The Mysterious Dr Styles
+Chapter 2 Bonus
+A Message from Laura
+A Spectral Presence
+That Piece of Junk
+Chapter 3 Bonus
+Memories of a Summer's Night
+Psi and Psi Again
+There Was Something in the Water
+There's Always a Plant in the House
+Setting a Trap
+C Railer Swoll
+Chapter 4 Bonus
+EMPTY TEXT
+Total
+Psi and the Mind
+The Experiment
+A Day in the Rowboat
+What Happened the Day Before
+Chapter 5 Bonus
+The Ghost of Dread Hill House
+Investigating the Lambs' Club - Take 2
+Altering the Plan
+C Railer Swoll - Part 2
+Chapter 6 Bonus
+Terror in the Dining Hall
+Suspicions about Samantha
+In the Lab
+Where Is She Now?
+Chapter 7 Bonus
+In the Lion's Den
+The Game of Life
+I'm Laura Styles!
+Chapter 8 Bonus
+That cursor is the empty inventory-item cursor.\0AIt indicates you need to use one of the inventory items. In this case, it's the carrot.\0AAccess the inventory, right-click on the carrot, then click on the cage.
+That cursor is the empty inventory-item cursor.\0AThat means you need to use one of the inventory items. In this case, it's the bottle.\0AAccess the inventory, right-click on the bottle, then click on the cage.
+Learn how to play by helping Sam get her pet rabbit, Houdini, settled in.\0AYou need to find Houdini and then give him food and water.
+First find Houdini. Look around the room. Move the cursor over items that look interesting.\0AClick on everything that gives you a special cursor.
+That cursor is the empty inventory-item cursor.\0AThat means you need to use one of the inventory items. In this case, it's the water bottle.\0AOpen the inventory, right-click on the water bottle, then click on the pitcher.
+Good! You still need to give Houdini food and water.\0ACheck around the room to find these items. Make sure not to miss Sam's backpack.
+You found the carrot. Now give it to Houdini. Access the inventory by moving the cursor to the top of the screen. Right-click on the carrot to ready it. Then left-click on the cage to feed Houdini. You can always unready an item by right-clicking on it again in the inventory.
+Good job! Now you just need to find water for Houdini.\0AKeep looking around and clicking on everything that gives you a special cursor.
+You found the water bottle. Now you need to fill it. You can find water right in this room.\0AWhen you have spotted it, open the inventory and right-click on the water bottle. Then click on the water to fill the bottle.
+Excellent! Now give the water bottle to Houdini.\0AOpen the inventory and right-click on the water bottle, then click on the cage.
+Congratulations!\0AYou have looked after Houdini and finished the tutorial. Now you are free to explore the rest of Dread Hill House.\0AGood luck.
+That icon is the empty inventory-item icon.\0AThat means you need to use one of the inventory items. In this case, it's the carrot.\0AOpen the inventory with Y, ready the carrot with X, then interact with the cage by pressing A.
+That icon is the empty inventory-item icon.\0AThat means you need to use one of the inventory items. In this case, it's the bottle.\0AOpen the inventory with Y, ready the bottle with X, then interact with the cage by pressing A.
+Learn how to play by helping Sam get her pet rabbit, Houdini, settled in. You need to find Houdini and then give him food and water. Open the radial interface by holding LT or RT. This displays the 16 closest hotspots for interaction near your character. Choose a point of interest with LS and press A to confirm.
+If there are more than 16 hotspots in a location move Sam around with LS and open the radial interface on a different position to make sure you won't miss anything.
+That icon is the empty inventory-item icon. It indicates you need to use one of the inventory items. In this case, it's the water bottle. Open the inventory with Y, ready the water bottle with X, press Y again to close the inventory, then interact with the pitcher by pressing A.
+Good! You still need to give Houdini food and water.\0ACheck around the room to find these items. Make sure not to miss Sam's backpack.
+You found the carrot. Now give it to Houdini.\0AOpen the inventory with Y and browse through it with the D-pad or LS. Press X on the carrot to ready it, leave the inventory with Y and then interact with the cage by pressing A. You can always unready an item by pressing X again.
+Good job! Now you just need to find water for Houdini. Keep looking around and interacting with every point of interest in the room.
+You found the water bottle. Now you need to fill it. You can find water right in this room. When you have spotted it, open the inventory with Y and browse through it with the D-Pad or LS. Then ready the water bottle with X, close the inventory with Y and interact with the water by pressing A.
+Excellent! Now give the water bottle to Houdini. Open the inventory with Y and ready the full water bottle with X. Press Y again to close the inventory, then interact with the cage by pressing A.
+Congratulations!\0AYou have looked after Houdini and finished the tutorial. Now you are free to explore the rest of Dread Hill House.\0AGood luck.
+Help Sam assemble the jigsaw puzzle and solve the Daedalus Club riddle.\0AMove a piece around by holding down the left mouse button. Right-click on a piece to rotate it.
+Help Sam assemble the jigsaw puzzle and solve the Daedalus Club riddle.\0AMove a piece around with LS while pressing the A Button. Press X on a piece to rotate it.
+Welcome to the magic interface. This is where Sam prepares herself for a trick. Once she has the right sequence of steps in mind, she will perform the trick. Sam must adapt the trick from the magic book to the situation at hand. To open the magic book for reference click on its icon in the upper right corner.\0A
+Here is an inventory item required for the trick.\0AUse it by dragging it into the appropriate slot in the action window.
+Refer to the instructions in the magic book. Click on its icon in the upper right corner again to put the book aside.
+The action window on the right represents Sam and her environment.\0APlan the trick step by step. Drag items into the various slots and select basic moves.
+The sequencer window on the left shows the number of steps required for the trick and lists the sequence of actions you have selected so far.
+You can delete a whole series of steps from the sequencer by clicking on the number of the last step you want removed.\0AYou can also use the right mouse button to backtrack one step at a time.
+This move allows Sam to misdirect her audience for a few seconds.\0AClick on the icon to add this move to the sequencer.
+Sam can manipulate an item she holds in her hand.\0AClick on the icon to add this move to the sequencer.
+Here is an item from the environment required for the trick.\0AUse the item by dragging it into the appropriate slot.
+Load, vanish, take, plant, palm or move an item by dragging it into one of the available slots. These appear with gold titles.
+A magic-wand icon appears when the sequence is complete.\0AClick on this icon to confirm the trick.\0AIf any of the steps were wrong, you will need to continue planning the trick from the last correct step.
+Welcome to the magic interface. This is where Sam prepares herself for a trick by mentally rehearsing the steps, trying to remain focused. Once she has the right sequence of steps in mind, she will perform the trick. As a professional stage magician, Sam must adapt each trick to the situation at hand.\0A
+First select the inventory item required for the trick by pressing A in the action window.
+Refer to the instructions in the magic book.\0AOpen and close the book by pressing X.\0AYou can zoom with the right stick.
+The action window on the right represents Sam and her environment.\0AMove the cursor with LS and press A to select items and basic moves.
+The sequencer window on the left shows the number of steps required for the trick and lists the sequence of actions you have selected so far.
+Press B to delete a wrong move from the sequencer.
+This move allows Sam to misdirect her audience for a few seconds.\0ASelect the icon with the cursor and press A to add this move to the sequencer.
+Sam can manipulate an item she holds in her hand.\0ASelect the icon with the cursor and press A to add this move to the sequencer.
+Here is an item from the environment required for the trick.\0ASelect the item with the cursor and press A to take it.
+Load, vanish, take, plant, palm or move an item by dragging it into one of the available slots. These appear with gold titles.
+A magic-wand icon appears when the sequence is complete.\0APress A to confirm the trick.\0AIf any of the steps were wrong, you will need to continue planning the sequence from the last correct step.
+Tutorial
+Inventory tutorial
+Magic tutorial
+Action window tutorial
+Sequencer tutorial
+Correction tutorial
+Misdirect tutorial
+Manipulate tutorial
+Environment tutorial
+Slot tutorial
+Magician's wand tutorial
+The diary contains all the dialogues and descriptions you have found.\0ASelect the chapter you want by clicking on its numbered tab. Right-click on a page to turn it.
+The diary contains all the dialogues and descriptions you have found.\0AHighlight a chapter tab with LS and select it by pressing A. Use LS to highlight and turn the pages.
+Sam's magic book contains basic tricks that may come in handy.\0ARight-click on a page to turn it. If Sam decides to perform a trick, pick one by left-clicking.
+Sam's magic book contains basic tricks that may come in handy.\0AHighlight and turn the pages using LS. If Sam decides to perform a trick, select one with the A button.
+Diary tutorial
+Magic-book tutorial
+Map tutorial
+You now have access to Oxford! This map lets you visit the locations you know and gives some clues about your adventure. Open the map by pressing M or clicking on the small compass icon to the left of your inventory.
+You now have access to Oxford! This map lets you visit the locations you know and gives some clues about your adventure. Open and close the map with RB.
+New locations have a white blinking outline. You can also tell something about a location by the colour of its label: GOLD means the location contains one or more tasks required to end the chapter. However, it may not always be possible to complete these right away. SILVER indicates a location with one or more bonus tasks, but no more required tasks. DARK GRAY means you have completed all tasks in this location for the current chapter.
+New locations have a white blinking outline. You can also tell something about a location by the colour of its label: GOLD means the location contains one or more tasks required to end the chapter. However, it may not always be possible to complete these right away. SILVER indicates a location with one or more bonus tasks, but no more required tasks. DARK GRAY means you have completed all tasks in this location for the current chapter.
+Check the progress bars to see how far you have got through the current chapter. Every significant action increases the percentage on one of the puzzle sets. A chapter ends when all of them are at 100%. However, Bonus tasks are strictly optional.
+Progress bar tutorial
+Helper
+Press the space bar to turn the hotspot labels on and off. This function displays all the interactive zones on the screen.
+Press the BACK button to turn the hotspot labels on and off. This function displays all the interactive zones on the screen.
+Want a closer look at an item?\0AZoom in and out using the mouse wheel. Move the item around by holding down the right mouse button.
+Want a closer look at an item?\0AZoom in or out by pushing up or down on RS. Move the item around with LS while pressing the X button.
+Zoom tutorial
+You can combine some inventory items with each other. Select an item so that it appears in the ready area to the right. Then left-click on another item to try the combination.
+You can combine some inventory items with each other. Select an item so that it appears in the ready area to the right. Then select another item with the A button to try the combination.
+Item combination tutorial
