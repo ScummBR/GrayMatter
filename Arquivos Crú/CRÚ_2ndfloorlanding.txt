@@ -1,200 +1,136 @@
 That girl is in that room. I wish she'd stay at Oxford.
-Aquela garota esta no quarto. Gostaria que ela estivesse em Oxford.
-
 Sam's room. She's probably not here, as usual.
-Quarto da Sam. Provavelmente ela não está, como sempre.
-
 I would like to search the bedroom. But David might be in there. I don't want to get caught snooping around.
-Adoraria de vasculhar o quarto. Mas David deve estar lá. Não quero ser pegar bisbilhotando por aí.
-
 I suppose I could check David's room now. But if he caught me, he'd freak.
-Acho que posso dar uma olhada no quardo de David agora. Mas se ele me pegar aqui, ele vai pirar.
-
 Hmm. Looks like it might be another bedroom. Don't think I'll go there.
-Hmm. Está parecendo ser outro quarto. Não acho que vou para lá.
-
 Um... Not sure whose room that is. But I think I'd better stay out of it.
-Um... Não sei qual comodo é esse. Mas acho que o melhor é ficar fora .
-
 I think that's Dr Styles's room. It's a bit... weird that our rooms are so close together.
-Acho que é o quarto do Dr. Styles. É um pouco... estranho que nossos quartos sejam tão próximos.
-
 He can move. I'm not giving up my room. No way.
-Ele pode se mudar. Não desistirei do meu quarto. De jeito nenhum.
-
 David's room.
-Quarto do David
-
 Dr Styles?
-Dr. Styles?
-
 Mrs Dalton?
-Sra. Dalton?
-
 Samantha Everett!
-Samantha Everett!
-
 That's probably another bedroom. I'd better not open it - the occupant might get annoyed.
-Provavelmente é outro quarto. Seria melhor não abrir – o ocupante poder ficar chateado.
-
 I guess none of these rooms have been used since the clinic closed.
-Acho que nenhum desses quartos tem sido usado desde o fechamento da clínica.
-
 Spare rooms. I keep them locked.
-Quartos extras. Mantenho eles fechados.
-
 Looks like a monk. Or Quasimodo post-surgery.
-Parece um monge. Ou Qasimodo depois da plástica.
-
 One of my ancestors salvaged pieces from a burned cathedral and installed them in Dread Hill House.
-Um de meus ancestrais resgatou pedaços de uma catedral queimada e intalou-as na Casa da Colina do Pavor.
-
 Laura wanted to clean some of it out, but... she never got the chance.
-Laura queria limpá-los, mas... nunca teve a chance.
-
 Weird painting. A woman and an owl... I like it. Pretty surreal.
-Pintura estranha. Uma mulher e uma coruja... gostei. Bem surreal.
-
 I think that's Laura. I wonder what the owl means? A totem? A pet? Curious.
-Acho que é Laura. O que será que a coruja significa? Um totem? Mascote? Curioso.
-
 Laura's father found a baby owl while hunting and brought it home. She loved it. It died the night before our wedding day. Put a slight damper on things.
-O pai de Laura achou um bebê coruja enquanto caçava e trouxe para casa. Laura a adorava. Ela morreu um dia depois do nosso casamento. Jogando um pequeno balde de água fria nas coisas.
-
 I don't see anything suspicious.
-Não vejo nada suspeito.
-
 No wires, nothing.
-Sem cordas, nada.
-
 There's nothing rigged to these chairs.
-Nenhum truque nesse sofá.
-
 Nothing.
-Nada.
-
 I don't see anything suspicious.
-Não vejo nada de suspeito.
-
 Well, if someone's been rigging the house, they've done a good job of cleaning it out again.
-Bem, alguém armou alguma coisa nessa casa e fizeram um bom trabalho limpando tudo.
-
 I need to get out of here before they figure out I'm an imposter.
-Peciso sair daqui antes que percebam que sou uma impostora.
-
 But first, I need to find a map, or bus schedule, or something so I can figure out where I'm going!
-Mas primeiro, preciso achar um mapa, ou horário dos ônibus, ou algo para eu poder saber para onde eu vou.
-
 Those gargoyles look like they were taken from an old building or something.
-Essas gárgulas parecem ter sido tiradas de um casa antiga ou coisa parecida.
-
 Some dusty old armour in there.
-Algumas velhas armaduras empoeiradas por aqui.
-
 That's probably another bedroom. And there might be someone in it.
-Provavelmnte é outro quarto. E deve ter alguém nele,
-
 Imagine having enough space in a hallway for chairs. In the houses I grew up in, you'd be lucky to be able to get down the hall with a backpack.
-Imagine ter espaço suficiente num corredor para poder por cadeiras. Na casa em que cresci, você teria sorte de chegar até o fim do corredor com uma mochila.
+
 
 I just heard on the radio... There was an incident at the pool of St Edmund Hall last night. And they mentioned another one at Horspath Track the night before.
-Acabei de ouvir no Rádio… Houve um acidente na piscine	 do St. Edmund Hall ontem a noite. E eles mencionaram outro em Horspath Track anteontem.
+
 
 What happened at the pool?
-O que houve na pscina?
+
 
 I want you to go over there immediately and find out what happened. Exactly what happened. I want a detailed report.
-Quero que você vá lá imediatamente e descubra o que aconteceu. Exatamente o que aconteceu. Eu quero um relatório detalhado.
+
 
 You want me to investigate?
-Que que eu investigue?
+
 
 Well, I can't go! You'll have to be my eyes and ears, Sam.
-Bem, não posso ir! Você terá que ser meus olho e ouvidos, Sam.
+
 
 OK.
-OK.
+
 
 Well, what are you waiting for? An engraved invitation? Go!
-Então, o que você está esperando? Convite especial? Vá!
+
 
 Not good.
-Nada bom.
+
 
 This is where the "ghost" disappeared. I should look around to see if there is some mechanism hidden around here.
-Aqui foi onde o “fantasma” foi visto. Vou dar uma vasculhada e ver se há algum mecanismo oculto por aqui.
+
 
 I'm pretty sure there are some places I left unsearched on this floor.
-Estou certa que ficou faltando algum canto para ser vasculhado nesse andar.
+
 
 I found THAT in my bed this morning. If that rabbit's not careful, he's going to end up as a pair of bunny slippers.
-Eu encontrei AQUILO na minha cama de manhã. Se aquele coelho não ficar esperto, ele vai terminar um par de pantufas.
+
 
 Oh, god. I'm sorry. He must really like you. He's never gotten in bed with anyone but me before. He's not that kind of rabbit.
-Ó, Deus. Sinto muito. Ele deve gostar muito de você. Ele nunca esteve na cama com mais ninguém além de mim. Ele não e desses coelhos.
+
 
 He's not gonna be any kind of a rabbit if he does it again. And you - where were you last night?
-Ele não será nenhum tipo de coelho se fizer isso de novo. E você – onde esteve ontem a noite?
+
 
 I...
-Eu...
+
 
 I realise that you are not a scientist, Samantha. But there ARE such principles as test conditions.
-Percebi que você não é cientista, Samantha. Mas HÁ um principio chamado condições de teste.
+
 
 How on earth can I conduct a valid experiment if I can't even keep something as basic as the test subjects the same every night?
-Como diabos eu posso conduzir um experimento válido se nem mesmo consigo algo tão básico como manter o mesmo objeto de teste?
+
 
 I'm sorry! I thought I could get home on time, but I got delayed, and...
-Me desculpe! Pensei que poderia chegar em casa a tenpo, mas me atrasei e...
+
 
 I mean, how are the other students to take this seriously, when you, my assistant, come and go as you please? Do you think...
-Quero dizer, como outros estudantes levarão isso a sério se você, minha assistente, vem e vai quando bem entende? Você não acha...
+
 
 What is that?
-O que foi isso?
+
 
 What a goose egg! Are you all right? What happened?
-Macacos me mordam! Você está bem? O que aconteceu?
+
 
 I'm fine! I fell down some stairs yesterday. I had to sit for a while. That's, um, why I was late.
-Estou bem! Eu cai da escada ontem, Tive que sentar um pouco. Por isso, hum, que eu me atrasei.
+
 
 Any double vision? Headache?
-Esta tendo visão dupla? Dor de cabeça?
+
 
 No, I'm fine. Really.
-Não, estou bem. Sério.
+
 
 Well, I think we should go to the hospital right away.
-Bem, acho que devemos ir para o hospital agora mesmo.
+
 
 Please! I really don't want to do that. I'm fine.
-Não é preciso! Realmente não quero fazer isso, Estou bem.
+
 
 Look, is there anything specific you wanted me to do today?
-Olha, há algo específico que queira que eu faça hoje?
+
 
 Actually, there was something... How well do you know Angela and Helena?
-Na verdade, tem sim... Quão bem você conhece Angela e Helena?
+
 
 Not well. Do you have any reason to suspect them?
-Não muito. Você tem algum motivo para suspeitar delas?
+
 
 Yes. But don't ask me what. I don't have time to explain it.
-Sim. Mas não me pergunte o que. Não tenho tempo de explicar.
+
 
 I'd like you to research their backgrounds - how long they've been at Oxford, where they were before, and anything else you can find out.
-Gostaria que você investigasse o passado delas – a quanto tempo elas estão em Oxforda, de onde leas eram, e o que mais você puder descobrir.
+
 
 And I'd like you to go over to the weight room and see if anyone saw someone lurking about the place last night.
-E eu gostaria que você fosse até a academia e visse se alguém notou uma pessoa espreitando pelas redondezar ontem anoite.
+
 
 OK.
-OK.
+
 
 Report back to me later today. And you're not off the hook for last night. Don't do it again.
-mande informaçoes mais tarde. E você não se safou pela noite passada. Não faça de novo.
+
 
 Helena and Angela?
-Helena e Angela?
+
